@@ -44,7 +44,7 @@ Category leaders covered here include **Datadog LLM Observability**, **LangSmith
 - [🧭 How to Choose the Right Tool](#-how-to-choose-the-right-tool)
 - [❓ Frequently Asked Questions](#-frequently-asked-questions)
 - [🔗 Related Awesome Lists](#-related-awesome-lists)
-- [🧑‍💻 How to Contribute](#-how-to-contribute)
+- [🤝 How to Contribute](#-how-to-contribute)
 - [🚨 Disclaimer](#-disclaimer)
 - [💖 Support](#-support)
 - [📈 Star History](#-star-history)
@@ -217,7 +217,7 @@ By raw span volume, **Arthur AI** leads with 300,000 spans, 12,000 inferences, a
 
 ---
 
-## 🧑‍💻 How to Contribute
+## 🤝 How to Contribute
 
 Contributions are welcome! Open a PR to add or update entries.
 
