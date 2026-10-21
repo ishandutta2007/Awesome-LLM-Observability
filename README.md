@@ -265,5 +265,5 @@ Your support directly funds the time spent verifying every number in this README
 **Made for AI engineers, platform teams, MLOps practitioners, and observability enthusiasts.**
 
 Let's make LLM observability more open, transparent, and vendor-neutral. 🚀
-# Awesome-LLM-Observability
+
 
